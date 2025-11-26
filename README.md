@@ -1,6 +1,21 @@
-# 🍿 Snack Inventory Management System
+# Snack Inventory Management System
 
-A comprehensive inventory and sales management system designed specifically for local snack sellers in the Philippines. This school project aims to help small snack businesses streamline their operations, track inventory, record sales, and gain valuable business insights through analytics.
+Get this AI overview shit outta here. Here's the real context for this repo.
+
+# This is a school project that was given to us on 6/1/2025. I literally just used TempoLabs AI to generate the boilerplate code for an inventory system. Then after that I used ChatGPT to kind of customize the boilerplate that TempoLabs AI that gave us.
+
+### The reason why I utilized full AI is because of the limited time given to us along with other school projects, so I had to make a Faustian pact with the devil and this was the shitty result lmao.
+
+<img width="1599" height="807" alt="image" src="https://github.com/user-attachments/assets/72ff96c3-6c74-448e-a5cd-528eac023a5f" />
+<img width="1599" height="794" alt="image" src="https://github.com/user-attachments/assets/1fe1d194-778d-40e5-9b50-c0c100ea5459" />
+<img width="1599" height="807" alt="image" src="https://github.com/user-attachments/assets/86626da9-5a35-4ad6-8585-30cfec8a9a71" />
+<img width="1599" height="800" alt="image" src="https://github.com/user-attachments/assets/6660859e-9567-44a2-9d8d-94522f738325" />
+<img width="1599" height="810" alt="image" src="https://github.com/user-attachments/assets/84870f2c-8bc5-4bce-b3ce-795e0589f5ef" />
+<img width="1599" height="805" alt="image" src="https://github.com/user-attachments/assets/2b261dff-533d-4326-9e7b-c3bfe6aa5ee4" />
+
+That's all. You can do simple CRUD and store inventory and have dashboard present to you the stats but that's about it. 
+
+At the very least, I learned how actual CRUD systems work functionally in this project despite it being full on AI vibe coded.
 
 ## 📋 Project Overview
 
